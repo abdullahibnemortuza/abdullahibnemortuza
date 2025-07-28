@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Abdullah Ibn-e-Mortuza
+# Hi there 👋 I'm Abdullah Ibne Mortuza
 
 Welcome to my GitHub profile!
 
