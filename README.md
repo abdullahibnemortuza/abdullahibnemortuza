@@ -1,8 +1,9 @@
 # Hi there 👋 I'm Abdullah Ibne Mortuza
 
-Welcome to my GitHub profile!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7981A&center=true&vCenter=true&width=900&lines=Mobile+App+Developer+in+Training;Kotlin;Xml;C;Python;Android+Studio+User;Learning+Every+Day!" alt="Animated typing SVG">
+</p>
 
-## 🚀 About Me
 
 I'm an enthusiastic learner currently exploring **Android mobile application development** with **Kotlin**. My journey so far has given me hands-on experience with:
 
