@@ -9,6 +9,7 @@ I'm an enthusiastic learner currently exploring **Android mobile application dev
 - **ROOM Database** for local data storage
 - **RecyclerView** for dynamic lists and UI components
 - **Firebase** for backend services and real-time data
+- **Retrofit** for Networking Calls
 
 I have a solid foundation in **C** and **Java**, which helps me understand core programming concepts and transition smoothly into Kotlin and Android development.
 
